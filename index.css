@@ -1,0 +1,22 @@
+body{
+    background-image: url("../img/背景.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed; 
+}
+div{
+    width: 500px;
+    margin: 0 auto;
+    
+    height: 100;
+    text-align: center;
+}
+.a{margin-top: 150px;
+
+}
+.DH{
+    margin-top: 45px;
+    padding: 4px;
+    width: 550px;
+    border: 3px solid rgb(32, 149, 179);
+    border-radius: 23px;
+}
